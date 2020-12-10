@@ -21,8 +21,13 @@ To install the necessary dependencies to run this application on your local mach
 npm --i
 ```
 ## Usage
+Here's a quick look at what this app can do:  
 
-![quick-README-generator](Assets/quick-README-generator.gif)
+![team-profile-generator](Assets/team-profile-generator-demo.gif)
+
+Here's example content of what this app can generate:  
+
+![example-output](Assets/example-output.png)
 
 ## Areas for improvement
 I would like to revisit this project to improve the CSS on the HTML output page, as well as add validation to verify the user input. 
